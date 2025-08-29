@@ -127,7 +127,7 @@ A short walkthrough explains:
 * State persistence
 * Sample query execution flow
 
-📎 **Video link:** `<Your OneDrive / Google Drive Link Here>`
+📎 **Video link:** `<https://drive.google.com/file/d/1r5mhqHVEB0zQ_5iP61uRxSCjKYJy7iLd/view?usp=sharing>`
 
 ---
 
