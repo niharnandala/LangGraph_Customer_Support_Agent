@@ -1,0 +1,21 @@
+{
+  "stages": [
+    "intake",
+    "understand",
+    "prepare",
+    "ask",
+    "wait",
+    "retrieve",
+    "decide",
+    "update",
+    "create",
+    "do_stage",
+    "complete"
+  ],
+  "conditional_paths": {
+    "decide": {
+      ">=90": "update",
+      "<90": "ask"
+    }
+  }
+}
